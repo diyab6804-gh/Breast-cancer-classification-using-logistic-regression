@@ -115,7 +115,7 @@ Breast-cancer-classification-using-logistic-regression/
 
 1. Clone this repository:
    ```bash
-    git clone https://github.com/your-username/Breast-cancer-classification-using-logistic-regression.git
+    git clone https://github.com/diyab6804-gh/Breast-cancer-classification-using-logistic-regression.git
    
 2. Install dependencies
    ```
